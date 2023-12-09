@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+﻿This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
@@ -125,6 +125,17 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
 
 ## Folder Structure
+
+- This is my mother
+1915719033
+02-667-4419
+Please tell her that your son is sending greetings from abroad. I don't think I'll be able to contact her for the new few months, so please tell her I hope your health will be good and enjoy New Year's day with my family. and then plase ask if they need anything or funds. and then please ask her news.
+
+
+- This is my wife
+1915727501
+Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I meet her everyday in my dream. I don't think I'll be able to contact her for the next few months, so please don't be upset to me and I hope you're taking care of your health and that you will enjoy New Year's day with your family. and then please ask her news.
+
 
 After creation, your project should look like this:
 
