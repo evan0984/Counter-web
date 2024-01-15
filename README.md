@@ -129,12 +129,12 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 - This is my mother
 1915719033
 02-667-4419
-Please tell her that your son is sending greetings from abroad. I don't think I'll be able to contact her for the new few months, so please tell her I hope your health will be good and enjoy New Year's day with my family. and then plase ask if they need anything or funds. and then please ask her news.
+Please tell her that your son is sending greetings from abroad. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Everything is good here and I am trying to follow our manager's decision. Please ask if they need more funds or anything else.
 
 
 - This is my wife
 1915727501
-Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I meet her everyday in my dream. I don't think I'll be able to contact her for the next few months, so please don't be upset to me and I hope you're taking care of your health and that you will enjoy New Year's day with your family. and then please ask her news.
+Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I meet her everyday in my dream. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Please ask if she need anything or she wants me to buy anything when I get back to home. and please ask how they celebrated SongYong's birthday and her plan to go to university.
 
 
 After creation, your project should look like this:
