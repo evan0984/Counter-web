@@ -134,7 +134,7 @@ Please tell her that your son is sending greetings from abroad. I don't have an 
 
 - This is my wife
 1915727501
-Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I meet her everyday in my dream. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Please ask if she need anything or she wants me to buy anything when I get back to home. and please ask how they celebrated SongYong's birthday and her plan to go to university.
+Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Please ask if she needs anything or she wants me to buy anything when I get back to home. and please ask how they celebrated SongYong's birthday and her plan to go to university.
 
 
 After creation, your project should look like this:
