@@ -126,15 +126,17 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 
 ## Folder Structure
 
-- My Mo
-026674419
-1915719033
-I hope everything will be good with my family. everything is good here. I sent the funds to my home 3 weeks ago to celebrate my sister's birthday. I tried to send more funds this week for my mother's birthday, but it was failed and I will not be able to send more funds for the next 2-3 months. I will be able to send the baggages from June and please ask my family to make the list of what they want me to buy and ship from here including medicines, housewares, and electric appliances. If my family need more funds, I will be able to have a chance to send them within 2-3 months.
+My Mo 
+026674419 1915719033 
 
-- My Wife
-1915727501
-I hope everything will be good with her. everything is good here. I will be able to send the baggages from June and please ask her to make the list of what she wants me to buy and ship here for our life including medicines, housewares, and electric appliances. 
-5th of April is my mother's birtday and I tried to send some funds to my family to celebrate it, but it was failed. I hope she will celebrate my mother's birthday with my heart.Please ask her plan to join university.
+- I hope everything will be good with my family. everything is good here. I sent the funds to my home 3 weeks ago to celebrate my sister's birthday. I tried to send more funds this week for my mother's birthday, but it was failed and I will not be able to send more funds for the next 2-3 months. 
+- I will be able to send the baggages from June and please ask my family to make the list of what they want me to buy and ship from here including medicines, housewares, and electric appliances. If my family need more funds, I will be able to have a chance to send them within 2-3 months.
+- Please ask her if she wants to buy new home for my sister. If yes, I will send the funds by July. I am asking this since I don't think I will be able to get back to home by next year. We are trying to get back to home for a wedding, but government and bosses don't approve. I will be able to get correct information by July and then contact my family then. 
+
+My Wife 1915727501 
+- I hope everything will be good with her. everything is good here. I will be able to send the baggages from June and please ask her to make the list of what she wants me to buy and ship here for our life including medicines, housewares, and electric appliances. 
+- 5th of April is my mother's birtday and I tried to send some funds to my family to celebrate it, but it was failed. I hope she will celebrate my mother's birthday with my heart.Please ask her plan to join university.
+- I don't have any idea yet when I will be able to get back home. 
 
 
 
