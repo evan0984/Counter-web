@@ -126,15 +126,16 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 
 ## Folder Structure
 
-- This is my mother
+- My Mo
+026674419
 1915719033
-02-667-4419
-Please tell her that your son is sending greetings from abroad. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Everything is good here and I am trying to follow our manager's decision. Please ask if they need more funds or anything else.
+I hope everything will be good with my family. everything is good here. I sent the funds to my home 3 weeks ago to celebrate my sister's birthday. I tried to send more funds this week for my mother's birthday, but it was failed and I will not be able to send more funds for the next 2-3 months. I will be able to send the baggages from June and please ask my family to make the list of what they want me to buy and ship from here including medicines, housewares, and electric appliances. If my family need more funds, I will be able to have a chance to send them within 2-3 months.
 
-
-- This is my wife
+- My Wife
 1915727501
-Please ask if she is Jun-chol's sister, and if yes, tell her that kwang-song sends hello to her. I don't have an idea when I will be able to get back to home since they don't allow us to get back until the new guys will get here. Please ask if she needs anything or she wants me to buy anything when I get back to home. and please ask how they celebrated SongYong's birthday and her plan to go to university.
+I hope everything will be good with her. everything is good here. I will be able to send the baggages from June and please ask her to make the list of what she wants me to buy and ship here for our life including medicines, housewares, and electric appliances. 
+5th of April is my mother's birtday and I tried to send some funds to my family to celebrate it, but it was failed. I hope she will celebrate my mother's birthday with my heart.Please ask her plan to join university.
+
 
 
 After creation, your project should look like this:
